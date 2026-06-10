@@ -1,0 +1,92 @@
+Imperial Cars Finance Notes
+
+We present two or three payment paths side by side so customers can compare monthly comfort, total cost, and down payment clearly.
+
+Trust principle: explain how APR, term, taxes, and trade equity affect the payment before asking for a commitment.
+
+Closing principle: once the customer agrees the vehicle solves the daily problem, ask a tie-down question that advances the process.
+
+---
+
+[Scenario: objection_think_about_it]
+Response: "I understand. Most people who buy this vehicle tell me they wish they'd done it sooner because it saves them time and hassle. What's the one thing that would make you comfortable moving forward today?"
+Principle: Joe Verde tie-down, clarity over pressure.
+
+[Scenario: closing_test_drive_followup]
+Script: "Hi [Customer], it was great meeting you. I've held the [Vehicle] for you until tomorrow. If you'd like, I can run the numbers with your trade-in and show you two payment options side by side."
+Principle: Prompt follow-up, remove friction, offer a choice.
+
+[Scenario: objection_price]
+Response: "You're right to look at the numbers carefully. Besides the price itself, what matters most to you: monthly comfort, warranty coverage, or long-term reliability?"
+Principle: Diagnose the real objection before defending price.
+
+[Scenario: objection_monthly_payment]
+Response: "Most customers start with the monthly figure. If I could show you an option that protects your budget and still gets you the right vehicle, would that be worth a quick look?"
+Principle: Payment-first framing with a soft tie-down.
+
+[Scenario: objection_spouse]
+Response: "That makes sense. When you talk it through together tonight, what question do you think your spouse will ask first so I can help you answer it now?"
+Principle: Resolve the hidden objection with service-minded curiosity.
+
+[Scenario: trust_building_trade]
+Response: "I'll show you exactly how we arrived at the trade value so there are no surprises. Fairness matters more than pressure here."
+Principle: Transparency builds trust and lowers defensiveness.
+
+[Scenario: competitor_comparison]
+Response: "Let's compare apples to apples: miles, condition, fees, reconditioning, and warranty. If this one wins on real value, would you feel good about taking the next step?"
+Principle: Conflict resolution through objective comparison.
+
+[Scenario: service_followup]
+Script: "I wanted to make sure your vehicle is doing exactly what you needed it to do. If anything feels off, tell me and I'll help get it handled quickly."
+Principle: Service heart and long-term trust.
+
+[Scenario: objection_credit]
+Response: "You're not the only one who's had that concern. Our job is to find the cleanest path forward and be honest about the options. Would it help if I showed you the likely payment range before we submit anything?"
+Principle: Fearlessness plus reassurance.
+
+[Scenario: closing_next_step]
+Response: "It sounds like this checks the boxes we agreed on. Would you like to handle the credit app first or lock in the test-drive time?"
+Principle: Choice close that preserves control.
+
+---
+
+Question: What trims are available for the Silverado 1500 from Chevrolet?
+Answer: Common trims for the Chevrolet Silverado 1500 include WT, Custom, LT, RST, LT Trail Boss, LTZ, High Country, ZR2. Availability can vary by year and region, and option packages may change final feature content and pricing.
+
+Question: What is the towing capacity of the Chevrolet Silverado 1500?
+Answer: The Chevrolet Silverado 1500 is generally rated around 9,000-13,300 lbs when properly equipped. Final towing depends on engine choice, drivetrain, axle ratio, cab/body style, and factory towing package.
+
+Question: What is the payload capacity of the Chevrolet Silverado 1500?
+Answer: Payload for the Chevrolet Silverado 1500 typically ranges around 1,700-2,260 lbs. Check the door-jamb payload sticker on the exact vehicle because trim level and options can change real payload significantly.
+
+Question: What fuel economy should I expect from the Chevrolet Silverado 1500?
+Answer: Typical fuel economy for the Chevrolet Silverado 1500 is around 17-24 combined. Real-world results vary with drive mode, speed, weather, tire setup, and towing or cargo load.
+
+Question: What horsepower and torque does the Chevrolet Silverado 1500 offer?
+Answer: Depending on engine or powertrain, the Chevrolet Silverado 1500 is commonly in the 305-420 hp and 383-495 lb-ft range. Higher-output trims usually trade some efficiency for stronger acceleration or towing confidence.
+
+Question: What transmission does the Chevrolet Silverado 1500 use?
+Answer: The Chevrolet Silverado 1500 commonly uses 8-speed or 10-speed automatic. Exact transmission mapping depends on trim and engine, so confirm build details when comparing two specific vehicles.
+
+Question: What drivetrain options are available on the Chevrolet Silverado 1500?
+Answer: Drivetrain options for the Chevrolet Silverado 1500 typically include 2WD or 4WD. AWD/4WD improves traction in rain or snow, while 2WD/FWD often lowers purchase price and running cost.
+
+Question: How many seats does the Chevrolet Silverado 1500 have and how much cargo space is there?
+Answer: The Chevrolet Silverado 1500 usually seats 3-6 and offers about 62-72 cu ft bed of cargo volume, depending on row configuration and whether rear seats are folded.
+
+Question: What safety features are standard on the Chevrolet Silverado 1500?
+Answer: Most recent Chevrolet Silverado 1500 trims include automatic emergency braking, lane-keeping support, forward collision warning, and a rear-view camera as standard or widely available. Exact standard content can vary by trim and year.
+
+Question: What driver-assistance technology is available on the Chevrolet Silverado 1500?
+Answer: Available features on the Chevrolet Silverado 1500 can include adaptive cruise control, blind-spot monitoring, rear cross-traffic alert, lane-centering, and 360-degree camera systems on higher trims.
+
+Question: What is the warranty coverage for the Chevrolet Silverado 1500?
+Answer: Warranty coverage for the Chevrolet Silverado 1500 follows Chevrolet policy. Typical North American coverage is about 3 years/36,000 miles basic and 5 years/60,000 miles powertrain on many brands, while Hyundai/Kia commonly offer 5 years/60,000 miles basic and 10 years/100,000 miles powertrain for original owners. EV battery warranties are commonly around 8 years/100,000 miles or longer depending on brand and state.
+
+Question: What is the starting MSRP for the Chevrolet Silverado 1500?
+Answer: A typical starting MSRP for the Chevrolet Silverado 1500 is around $37,000-$75,000, with higher trims and packages increasing final transaction price.
+
+Question: How capable is the Chevrolet Silverado 1500 off-road?
+Answer: Off-road capability notes for the Chevrolet Silverado 1500: up to 11.2 in clearance on ZR2. Tire choice, skid protection, and low-range/locker availability matter more than badge alone on difficult terrain.
+
+Question: What is the difference between the Chevrolet Silverado 1500 WT trim and the next higher trim?

@@ -1,0 +1,11 @@
+{
+  "status": "ok",
+  "source": "data\\deals.csv",
+  "deal_count": 12,
+  "tier_rates": {
+    "A": 5.38,
+    "B": 7.15,
+    "C": 12.15,
+    "D": 17.15
+  }
+}

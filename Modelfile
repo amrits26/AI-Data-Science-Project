@@ -1,0 +1,4 @@
+﻿FROM deepseek-r1:7b
+ADAPTER C:/Users/amrit/OneDrive/Documents/AI Data Science Project/models/imperial_deepseek
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9

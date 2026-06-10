@@ -1,0 +1,8 @@
+{"session_id": "test123", "skill": "inventory_search", "question": "Show me all Toyotas", "feedback": "Correct, but slow", "severity": 2}
+{"session_id": "smoketest1", "skill": "inventory_search", "question": "Show me all Hondas", "feedback": "Correct and fast", "severity": 1}
+{"session_id": "smoketest2", "skill": "general_knowledge", "question": "What is the warranty on a 2022 Civic?", "feedback": "Accurate, but verbose", "severity": 2}
+{"session_id": "smoketest3", "skill": "financing", "question": "What is the lowest APR available?", "feedback": "Correct, concise", "severity": 1}
+{"session_id": "smoketest4", "skill": "service", "question": "How often should I change oil?", "feedback": "Helpful, but could be shorter", "severity": 2}
+{"session_id": "smoketest5", "skill": "trade_in", "question": "How do I get a trade-in estimate?", "feedback": "Accurate, clear steps", "severity": 1}
+{"session_id": "smoketest6", "skill": "comparison", "question": "Compare Accord vs Camry 2021", "feedback": "Detailed, but slow", "severity": 2}
+{"session_id": "smoketest7", "skill": "vin_decode", "question": "Decode this VIN: 1HGCM82633A004352", "feedback": "Accurate, but slow", "severity": 2}

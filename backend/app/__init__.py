@@ -1,0 +1,3 @@
+from backend.app.core.platform_compat import patch_platform_machine_for_windows
+
+patch_platform_machine_for_windows()

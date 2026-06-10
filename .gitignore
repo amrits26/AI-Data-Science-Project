@@ -1,0 +1,45 @@
+@"
+# Large model files
+models/
+*.safetensors
+*.pt
+*.bin
+*.pth
+
+# Node modules
+node_modules/
+frontend-react/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE and local
+.vscode/
+.idea/
+*.swp
+
+# Cache directories
+cache/
+
+# Data files (logs, databases)
+*.log
+*.db
+*.sqlite
+data/*.db
+data/*.log
+
+# Environment secrets
+.env
+.env.local
+
+# Frontend build
+frontend-react/dist/
+frontend-react/.vite/
+
+# OS junk
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding utf8

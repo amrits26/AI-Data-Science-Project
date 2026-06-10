@@ -1,0 +1,149 @@
+
+@import "./theme.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition-colors duration-200;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-imperial-bg-light text-imperial-text font-sans;
+}
+
+.container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Card component */
+.card {
+  @apply bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-6;
+}
+
+/* Button styles */
+.btn {
+  @apply px-4 py-2 rounded-lg font-semibold transition-all duration-200;
+}
+
+.btn-primary {
+  @apply btn bg-imperial-primary text-white hover:bg-red-900;
+}
+
+.btn-secondary {
+  @apply btn bg-imperial-primary-light text-white hover:bg-imperial-primary;
+}
+
+.btn-danger {
+  @apply btn bg-imperial-danger text-white hover:bg-red-800;
+}
+
+.btn-neutral {
+  @apply btn bg-gray-300 text-gray-900 hover:bg-gray-400;
+}
+
+/* Keyboard navigation – visible focus ring on all interactive elements */
+button:focus-visible,
+[role="tab"]:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+a:focus-visible {
+  @apply outline-none ring-2 ring-imperial-primary ring-offset-2;
+}
+
+/* Badge styles */
+.badge {
+  @apply inline-block px-3 py-1 rounded-full text-sm font-semibold;
+}
+
+.badge-success {
+  @apply badge bg-green-100 text-imperial-primary;
+}
+
+.badge-warning {
+  @apply badge bg-imperial-gold text-imperial-primary;
+}
+
+.badge-danger {
+  @apply badge bg-red-100 text-imperial-danger;
+}
+
+/* Input styles */
+input, textarea, select {
+  @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-imperial-primary focus:border-transparent;
+}
+
+/* Typography */
+h1 {
+  @apply text-4xl font-bold text-gray-900;
+}
+
+h2 {
+  @apply text-3xl font-bold text-gray-900 mt-8 mb-4;
+}
+
+h3 {
+  @apply text-2xl font-semibold text-gray-800 mt-6 mb-3;
+}
+
+p {
+  @apply text-gray-700 leading-relaxed;
+}
+
+/* Loader animation */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  @apply inline-block w-8 h-8 border-4 border-imperial-bg-light border-t-imperial-primary rounded-full;
+  animation: spin 1s linear infinite;
+}
+
+/* Payment Estimator term markers */
+.term-pos-24 { left: 28.57%; }
+.term-pos-36 { left: 42.86%; }
+.term-pos-48 { left: 57.14%; }
+.term-pos-60 { left: 71.43%; }
+.term-pos-72 { left: 85.71%; }
+.term-pos-84 { left: 100%; }
+
+/* Phase 3 activity dashboard */
+.confetti-celebration {
+  position: absolute;
+  inset: 0;
+  opacity: 0.5;
+  background-image:
+    radial-gradient(circle at 10% 20%, #b22234 2px, transparent 3px),
+    radial-gradient(circle at 30% 70%, #1e3a8a 2px, transparent 3px),
+    radial-gradient(circle at 55% 35%, #f59e0b 2px, transparent 3px),
+    radial-gradient(circle at 75% 80%, #b22234 2px, transparent 3px),
+    radial-gradient(circle at 90% 25%, #1e3a8a 2px, transparent 3px);
+  background-size: 120px 120px;
+  animation: confetti-shift 1.2s linear infinite;
+}
+
+@keyframes confetti-shift {
+  from {
+    transform: translateY(-2px);
+  }
+  to {
+    transform: translateY(8px);
+  }
+}
+
+.progress-ring-fill-0 { background: conic-gradient(#E5E7EB 100%, #E5E7EB 0); }
+.progress-ring-fill-25 { background: conic-gradient(#B22234 25%, #E5E7EB 0); }
+.progress-ring-fill-50 { background: conic-gradient(#B22234 50%, #E5E7EB 0); }
+.progress-ring-fill-75 { background: conic-gradient(#B22234 75%, #E5E7EB 0); }
+.progress-ring-fill-100 { background: conic-gradient(#B22234 100%, #E5E7EB 0); }

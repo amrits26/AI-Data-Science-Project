@@ -1,0 +1,13 @@
+{
+  "no_trade_in_tax_credit": [
+    "CA",
+    "HI",
+    "KY",
+    "MD",
+    "MI",
+    "MT",
+    "VA",
+    "DC"
+  ],
+  "default_rule": "trade_in_reduces_taxable_amount"
+}

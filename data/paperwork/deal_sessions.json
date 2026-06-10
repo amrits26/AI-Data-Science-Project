@@ -1,0 +1,46 @@
+[
+  {
+    "session_id": "cdd986ce-2ad6-4f81-8636-0fb207ca8d1b",
+    "form_type": "deal_jacket",
+    "vehicle": {},
+    "customer": {},
+    "trade_in": {},
+    "selling_price": null,
+    "doc_fee": 250.0,
+    "status": "draft",
+    "fields": {}
+  },
+  {
+    "session_id": "a5b27fa8-2843-4531-af85-3d015e2542aa",
+    "form_type": "deal_jacket",
+    "vehicle": {},
+    "customer": {},
+    "trade_in": {},
+    "selling_price": null,
+    "doc_fee": 250.0,
+    "status": "draft",
+    "fields": {}
+  },
+  {
+    "session_id": "a0b55b68-7418-43dc-be0e-7408a226ae50",
+    "form_type": "deal_jacket",
+    "vehicle": {},
+    "customer": {},
+    "trade_in": {},
+    "selling_price": null,
+    "doc_fee": 250.0,
+    "status": "draft",
+    "fields": {}
+  },
+  {
+    "session_id": "5a3b61ce-07f5-4420-8949-31ac2667eca0",
+    "form_type": "deal_jacket",
+    "vehicle": {},
+    "customer": {},
+    "trade_in": {},
+    "selling_price": null,
+    "doc_fee": 250.0,
+    "status": "draft",
+    "fields": {}
+  }
+]

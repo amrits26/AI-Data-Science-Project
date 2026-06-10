@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', system-ui, Segoe UI, Roboto, Arial, Helvetica, sans-serif;
+  background-color: theme('colors.imperial-bg-light');
+  color: theme('colors.imperial-text');
+}
+
+.dark body {
+  background-color: theme('colors.imperial-bg-dark');
+  color: theme('colors.imperial-text-dark');
+}
+
+/* Remove all background textures, gradients, and decorative elements */
+* {
+  background-image: none !important;
+  box-shadow: none;
+}
+
+/* Large negative space for panels */
+.panel {
+  padding: 1.5rem;
+  @apply md:p-8;
+}
+
+/* Glassmorphism card utility */
+.glass-card {
+  @apply backdrop-blur-md bg-white/80 dark:bg-gray-900/70 border border-white/20 dark:border-gray-700/30 shadow-[0_8px_32px_rgba(0,0,0,0.08)];
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 600;
+}
+
+/* Body text */
+p, span, li, td, th {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+/* Chat message text */
+.chat-message {
+  font-size: 0.94rem;
+  line-height: 1.7;
+}
+
+/* Supporting info */
+.supporting-info {
+  font-size: 0.75rem;
+  color: theme('colors.imperial-text-secondary');
+}
+
+/* Focus ring for accessibility */
+:focus {
+  outline: 2px solid theme('colors.imperial-primary');
+  outline-offset: 2px;
+}

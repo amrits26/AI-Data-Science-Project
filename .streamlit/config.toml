@@ -1,0 +1,14 @@
+# AI Data Scientist — Streamlit config
+# Night mode feel; detailed theme overridden in app CSS
+[theme]
+primaryColor = "#4285f4"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1a1d24"
+textColor = "#fafafa"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,13 @@
+deal_id,closed_date,vehicle_make,vehicle_model,vehicle_year,credit_tier,annual_rate,term_months,sale_price,down_payment,front_gross,back_gross,salesperson,customer_need
+1001,2026-05-01,Toyota,Camry,2021,excellent,5.4,60,24995,3500,2200,1100,Alex,commuter reliability
+1002,2026-05-02,Honda,CR-V,2020,good,7.1,72,26995,2500,2600,1400,Maria,family space
+1003,2026-05-03,Chevrolet,Silverado 1500,2019,fair,12.4,75,31995,4000,3100,1700,Jamal,work truck durability
+1004,2026-05-04,Ford,Explorer,2021,good,7.6,72,33995,5000,3400,1500,Alex,third-row seating
+1005,2026-05-05,Nissan,Altima,2022,excellent,5.1,60,22995,3000,2100,900,Sophia,fuel savings
+1006,2026-05-06,Jeep,Grand Cherokee,2020,fair,11.9,72,28995,3500,2800,1300,Maria,winter traction
+1007,2026-05-07,Hyundai,Elantra,2023,good,6.9,66,21995,2000,1900,800,Jamal,first-time buyer
+1008,2026-05-08,Kia,Telluride,2022,excellent,5.8,72,38995,6000,3600,1900,Alex,family road trips
+1009,2026-05-09,Chevrolet,Equinox,2021,poor,16.8,75,23995,1500,1700,700,Sophia,credit rebuild
+1010,2026-05-10,Ford,F-150,2020,poor,17.5,84,35995,2500,3300,1600,Maria,towing capacity
+1011,2026-05-11,Toyota,RAV4,2022,good,7.0,72,32995,4500,2900,1200,Jamal,safety tech
+1012,2026-05-12,Honda,Civic,2023,excellent,5.2,60,24995,3000,2300,950,Alex,low cost ownership
